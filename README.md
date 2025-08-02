@@ -1,7 +1,8 @@
 # The Boundaries of Belonging: An Experimental Approach to National Identity Measurement in Taiwan and South Korea
 
-This repository contains materials related to the working paper.
+This repository contains materials related to the paper.
 
+## Authors
 **Steven Denney (Leiden University)**  
 **H. Christoph Steinhardt (University of Vienna)**  
 
